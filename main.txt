@@ -1,0 +1,3 @@
+def say_hello():
+    name = input("Introduceți numele dvs.: ")
+    print(f"Salut, {name}! Bine ați venit în branch-ul Main de pe GitHub!")
